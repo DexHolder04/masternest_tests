@@ -469,6 +469,7 @@ input:checked + label:after {
     background: url("../resources/images/iToolsLogoTrans.png");
     background-repeat: no-repeat;
     background-position: center;
+    min-height: 220px;
 }
 
 .iToolsFlex {
